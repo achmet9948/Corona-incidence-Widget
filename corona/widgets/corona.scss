@@ -1,0 +1,31 @@
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$background-color:  #303030;
+$value-color:       #fff;
+ 
+$title-color:       rgba(255, 255, 255, 0.7);
+$moreinfo-color:    rgba(255, 255, 255, 0.7);
+
+// ----------------------------------------------------------------------------
+// Widget-Corona styles
+// ----------------------------------------------------------------------------
+.widget-corona { 
+ 
+  background-color: $background-color;
+  
+  .title { 
+    color: $title-color;
+    font-size: 30px;
+    margin: 0;
+  }
+ 
+  .inzidenz {
+    color: $value-color;
+    font-size: 50px;
+  }
+ 
+    .updated-at {
+    color: $moreinfo-color;
+  }
+}
