@@ -1,5 +1,5 @@
 # Corona_Inzidenz_Widget
-It is a small widget for Smashing.io
+It is a small widget for Smashing.io <br>
 The Widget shows the current incidence value of a german city. 
 
 ![image](https://user-images.githubusercontent.com/35784592/122083424-279fb800-ce01-11eb-8d08-29655ccaa646.png)
